@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    padding: 10px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    padding: 10px;
+}
+
+.logo-img {
+    margin-left: 40px;
+}
+
+.logo-img img {
+    width: 126.52px;
+    height: 130.11px;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.title p {
+    color: rgb(46, 45, 45);
+    font-size: 24px;
+}

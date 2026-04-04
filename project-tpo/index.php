@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="components/style.css">
     <script src="components/header.js"></script>
+    <script src="components/footer.js"></script>
     <title>Вход</title>
 </head>
 <body>
@@ -39,5 +41,6 @@
         <input type="password" name="subject_pass" value="">
         <p><input type="submit" name="btm_conf" value="ok"></p>
     </form>
+    <my-footer></my-footer>
 </body>
 </html>
