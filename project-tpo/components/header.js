@@ -5,8 +5,11 @@ class MyHeader extends HTMLElement {
             <div class="logo-img">
                 <img src="images/logo.png"</img>
             </div>
-            <div class="title">
-                <p>категории</p>
+            <div class="up-title">
+                <p>главное окно</p>
+            </div>
+            <div class ="registr_btn">
+                <img src="images/registr_btn.png"</img>
             </div>
         </header> `;
     }
